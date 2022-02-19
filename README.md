@@ -23,8 +23,9 @@
 * MySQL :: MySQL 8.0 リファレンスマニュアル :: 12.21.1 Window 関数の説明
 <br>https://dev.mysql.com/doc/refman/8.0/ja/window-function-descriptions.html
 
-* TECH PROjin | ITを学ぶなら「テックプロジン」
+* 【SQL基礎】ウィンドウ関数とは | TECH PROjin
 <br>https://tech.pjin.jp/2021/07/31/%E3%80%90sql%E5%85%A5%E9%96%80%E3%80%91%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E9%96%A2%E6%95%B0%E3%81%A8%E3%81%AF/
+<br>※もう少し分かりやすく
 
 * MySQL 8.0 : クエリーキャッシュのサポート終了 | Yakst
 <br>https://yakst.com/ja/posts/4612
